@@ -1,0 +1,3 @@
+change alert to toast when user add event into shopping cart
+
+Extra: capcha, dark mode
